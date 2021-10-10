@@ -4,6 +4,9 @@ The main goal of the first problem is to Classify Wines Using the Red Wine Quali
 In Version 0 the dataset is fitted in a SVM. 
 In version 1 the dataset is slightly modified in order to examine different approaches for dealing with  missing data (Clustering , Regression Algorithms).
 
+The main goal of the second problem is to Classify News Titles as fake or not Fake with the help of a Neural Network. The goal is to correctly process and 
+convert the titles into an array that can be fed to a neural network.
+
 ########################################################
 
 PROBLEM 1 : Red Wine Classification Using Machine Learning
